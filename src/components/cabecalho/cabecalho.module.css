@@ -1,0 +1,22 @@
+.cabecalho {
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 20em;
+}
+
+.cabecalho nav {
+    display: flex;
+    gap: 3em;
+}
+
+.cabecalho__link {
+    font-size: 1.12rem;
+    text-decoration: none;
+    color: var(--branco);
+    font-weight: 400;
+}
+
+
+
